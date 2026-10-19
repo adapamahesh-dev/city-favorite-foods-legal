@@ -1,6 +1,15 @@
-# Food photo credits
+# Image credits and licenses
 
-Each bundled catalog thumbnail below was manually checked against its Commons title and description for a dish-level semantic match. Images are 960px-or-smaller Wikimedia Commons derivatives.
+## Artwork supplied for this app
+
+The following bundled assets were supplied for use in the app. Their files did not include external author names, source URLs, or license information. This listing records how they were supplied and does not claim authorship or a particular license.
+
+- City-card artwork (28 images): Agartala, Aizawl, Amaravati, Bengaluru, Bhopal, Bhubaneswar, Chandigarh, Chennai, Dehradun, Delhi, Dispur, Gandhinagar, Gangtok, Hyderabad, Imphal, Itanagar, Jaipur, Kohima, Kolkata, Lucknow, Mumbai, Panaji, Patna, Raipur, Ranchi, Shillong, Shimla, Thiruvananthapuram.
+- Cartoon dish illustrations (10 images per city pack): Agartala, Aizawl, Amaravati, Bengaluru, Bhopal, Bhubaneswar, Chandigarh, Chennai, Dehradun, Dispur, Gandhinagar, Gangtok, Hyderabad, Imphal, Itanagar, Jaipur, Kohima, Kolkata, Lucknow, Mumbai, Panaji, Patna, Raipur, Ranchi, Shillong, Shimla, Thiruvananthapuram.
+
+## Wikimedia Commons food-photo credits
+
+Each bundled catalog thumbnail listed below was checked against its Commons title and description for a dish-level semantic match. Images are 960px-or-smaller Wikimedia Commons derivatives.
 
 - Aloo Pitika — Chiring chandan; CC BY-SA 4.0; [Commons file](https://commons.wikimedia.org/wiki/File:A_kind_of_Assamese_veg_thali_with_moog_dal,_Red_dal,_Black_dal_with_elephant_apple,_alloo_sabji,_banana_blosom_sabji,,_couliflower_sabjipumpkin_sabji,_mixed_saag_sabji,_aloo_pitika_..raw_banana_fry_and_cucumbrer_slices.jpg)
 - Amritsari Kulcha — Manpreet Singh Grover; CC BY-SA 4.0; [Commons file](https://commons.wikimedia.org/wiki/File:Special_Amritsari_kulchas.jpg)
@@ -117,7 +126,7 @@ Each bundled catalog thumbnail below was manually checked against its Commons ti
 - Wahan Mosdeng — Tuhi2001; CC BY-SA 4.0; [Commons file](https://commons.wikimedia.org/wiki/File:Wahan_Mosdeng_and_Ruti-_Agartala-_Tripura.jpg)
 - Zan — Rupasree; CC BY-SA 4.0; [Commons file](https://commons.wikimedia.org/wiki/File:Zan_and_Chicken_churpi.jpg)
 
-## Newly sourced Commons thumbnails
+### Newly sourced Commons thumbnails
 
 - Awadhi Biryani — Faizhaider at English Wikipedia; CC BY-SA 3.0; [Commons file](https://commons.wikimedia.org/wiki/File:Awadhi_mutton_biryani.jpg)
 - Awan Bangwi — Tirengma; CC BY-SA 4.0; [Commons file](https://commons.wikimedia.org/wiki/File:Awang_Bangwi.jpg)
@@ -148,7 +157,7 @@ Each bundled catalog thumbnail below was manually checked against its Commons ti
 - Bajre Ki Roti — Harman Godara; CC0; [Commons file](https://commons.wikimedia.org/wiki/File:Bajre_Ki_Roti.jpg)
 - Rabri — Ravi Talwar; CC BY-SA 4.0; [Commons file](https://commons.wikimedia.org/wiki/File:Homemade_Rabri.jpg)
 
-## No verified Commons thumbnail found
+### No verified Commons thumbnail found
 
 The following catalog entries have an explicit `null` mapping. They never use a substitute image; direct requests show the in-app text placeholder. State-capital lists complete their image-backed results with other explicitly named, credited dishes rather than using an unrelated category image:
 
